@@ -20,6 +20,8 @@ Passionate about building intelligent AI applications, computer vision systems, 
 - 📫 Reach me: **satyaprakashpaikaray008@gmail.com**
 ## 🛠️ Tech Stack
 
+
+
 ### 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -67,20 +69,52 @@ Passionate about building intelligent AI applications, computer vision systems, 
 
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satyaprakash1235&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Satyaprakash1235&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyaprakash1235&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyaprakash1235&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Satyaprakash1235&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 ---
+---
 
+
+# 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/satyaprakash-paikaray-033495284/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Satyaprakash1235" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/satya_2005/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="mailto:satyaprakashpaikaray008@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+
+## 🏆 LeetCode Statistics
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/satya_2005?theme=dark&font=Karma&ext=contest" />
+</p>
+## 🚀 Currently Working On
+
+- 🤖 Large Language Models (LLMs)
+- 🧠 Retrieval-Augmented Generation (RAG)
+- ⚡ FastAPI Backend Development
+- 📊 Machine Learning & MLOps
+- 👁️ Computer Vision with YOLOv8
+- 🌐 Full Stack AI Applications
