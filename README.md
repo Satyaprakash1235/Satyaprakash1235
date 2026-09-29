@@ -160,14 +160,21 @@
 
 ## 🤖 AI Trip Planner
 
-An AI-powered travel planning platform that generates personalized itineraries based on user preferences.
+An AI-powered travel planning platform that generates personalized itineraries based on user preferences, destinations, weather, and places of interest.
 
-**Tech Stack:**
+### 🛠️ Tech Stack
 
-`Next.js` `FastAPI` `LangChain` `LLMs` `MongoDB` `Google Maps` `Weather APIs`
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-6A11CB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenWeather-EB6E4B?style=for-the-badge"/>
+</p>
 
-🔗 **Live Demo:**  
-https://ai-trip-plannner.vercel.app/
+**Focus:** `Generative AI` • `AI Agents` • `Personalized Recommendations` • `API Integration`
 
 ---
 
@@ -175,13 +182,18 @@ https://ai-trip-plannner.vercel.app/
 
 A machine-learning based screening application using questionnaire data and engineered chaos-based features.
 
-**Tech Stack:**
+### 🛠️ Tech Stack
 
-`Python` `Scikit-Learn` `Pandas` `Flask` `FastAPI` `Machine Learning`
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
 
-**Key Concepts:**
-
-`Feature Engineering` `Classification` `Model Evaluation` `ROC-AUC`
+**Focus:** `Machine Learning` • `Feature Engineering` • `Classification` • `Model Evaluation` • `ROC-AUC`
 
 ---
 
@@ -189,50 +201,58 @@ A machine-learning based screening application using questionnaire data and engi
 
 An AI-driven traffic intelligence platform designed to analyze traffic patterns and provide predictive insights for congestion management.
 
-**Tech Stack:**
+### 🛠️ Tech Stack
 
-`Python` `Machine Learning` `Transformers` `FastAPI` `MLflow` `Docker` `Kubernetes`
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transformers-FFCC4D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
 
-**Focus:**
-
-`MLOps` `Predictive Analytics` `Model Monitoring` `AI Systems`
-
----
-
-## 🔎 Intelligent Crime Analytics Platform
-
-An intelligent conversational AI and analytics platform designed to explore crime patterns, relationships and socio-demographic insights.
-
-**Tech Stack:**
-
-`Python` `Machine Learning` `LLMs` `RAG` `FastAPI` `Vector Databases`
-
-**Focus:**
-
-`Conversational AI` `Knowledge Retrieval` `Data Analytics`
+**Focus:** `MLOps` • `Predictive Analytics` • `Traffic Intelligence` • `Model Monitoring` • `AI Systems`
 
 ---
 
-# 🧪 Currently Exploring
+## ☁️ Cloud Vehicle Management System
+
+A cloud-based vehicle management platform designed to simplify vehicle tracking, management, and monitoring using scalable cloud technologies.
+
+### 🛠️ Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge"/>
+</p>
+
+**Focus:** `Cloud Deployment` • `Vehicle Management` • `REST APIs` • `Scalable Backend` • `Real-Time Monitoring`
+
+---
+
+# 🏅 Achievements & Activities
+
+- 💻 Solved **100+ problems on LeetCode**
+- 🧩 Participated in **GeeksforGeeks Coding Contests**
+- 🤖 Participated in **AI/ML Hackathons**
+- 🏆 Participated in **Line Follower Robot Competition**
+- 📚 NPTEL **Deep Learning – IIT Ropar**
+- 🚀 Building projects around **AI, LLMs and MLOps**
+
+---
+
+# 🎯 2026 Goals
 
 ```text
-LLMs
- ├── RAG
- ├── LangChain
- ├── LlamaIndex
- ├── Vector Databases
- └── Local LLMs
-
-MLOps
- ├── MLflow
- ├── DVC
- ├── Docker
- ├── Kubernetes
- ├── Kubeflow
- └── Model Deployment
-
-AI Engineering
- ├── FastAPI
- ├── AI Agents
- ├── Computer Vision
- └── Production AI Applications
+☑ Build production-ready AI applications
+☑ Strengthen Machine Learning fundamentals
+☑ Learn advanced LLM & RAG architectures
+☑ Build MLOps pipelines
+☑ Improve DSA & problem solving
+☑ Contribute to open source
